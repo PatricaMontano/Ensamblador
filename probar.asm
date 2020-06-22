@@ -11,7 +11,7 @@
 	int 80h
 %endmacro
 ;****************Utilizamos un MACRO PARA LEER **********************
-%macro leer 2
+%macro leer 2./
 	mov eax,3
 	mov ebx,2
 	mov ecx,%1
