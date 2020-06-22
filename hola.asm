@@ -1,4 +1,5 @@
 ;Practica 1
+;Johanna 
 ;Primera vez utilizando NASM 
 ;Fecha=1 de Junio del 2020 
 section .data
