@@ -7,5 +7,9 @@ In this repository you will find .asm code, and the practices carried out during
 
 
 nasm -felf64 archivo.asm -o archivo.o
+
+
 ld -o archivo archivo.o
+
+
 ./archivo
